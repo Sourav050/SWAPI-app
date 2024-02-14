@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E5E1C66F-08C0-4227-AE27-A0BEB2D722C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61A5133F-6E9C-4094-8373-882E1C659C3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalApp/ViewModel/CharactersDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3"
+            endingLineNumber = "3"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0DA01B83-42D7-470C-AF58-D58D7DBC053B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FinalApp/ViewModel/CharactersViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchNextPage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0DA01B83-42D7-470C-AF58-D58D7DBC053B - aed2049e020c2259"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Network.NWPath) -&gt; () in FinalApp.CharactersViewModel.setupNetworkMonitor() -&gt; ()"
+                  moduleName = "FinalApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc413x/Documents/Projects/FinalApp/FinalApp/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "0DA01B83-42D7-470C-AF58-D58D7DBC053B - f8bdb06fb71de683"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalApp.CharactersViewModel.fetchNextPage() -&gt; ()"
+                  moduleName = "FinalApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc413x/Documents/Projects/FinalApp/FinalApp/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "0DA01B83-42D7-470C-AF58-D58D7DBC053B - f8bdb06fb71de6c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FinalApp.CharactersViewModel.fetchNextPage() -&gt; ()"
+                  moduleName = "FinalApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sc413x/Documents/Projects/FinalApp/FinalApp/ViewModel/CharactersViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
